@@ -132,15 +132,6 @@ Visual output is generated during the testing phase and used directly in the acc
 
 ---
 
-## Status
-- Economic model: complete
-- Reinforcement learning environment: implemented
-- Training and testing pipeline: functional
-- Analysis: completed
-- Report: finalized
-
----
-
 ## Authors
 - PIERRON, Marie
 - BACHER, Quentin
